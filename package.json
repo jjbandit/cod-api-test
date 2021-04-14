@@ -1,0 +1,12 @@
+{
+  "name": "cod-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "call-of-duty-api": "^1.3.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "WTFPL"
+}
